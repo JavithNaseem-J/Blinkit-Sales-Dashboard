@@ -1,4 +1,4 @@
-# Blinkit Sales Report Dashboard
+# Blinkit Sales Dashboard
 
 ## Overview
 This project delivers a comprehensive analysis of Blinkit’s sales performance using Power BI. The dashboard visualizes key metrics such as total sales, average sales per item, number of items sold, and fat content distribution, helping to make data-driven decisions to optimize sales strategies and outlet performance.
